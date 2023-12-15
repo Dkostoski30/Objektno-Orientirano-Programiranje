@@ -1,0 +1,3 @@
+C:/Users/Daniel Laptop/CLionProjects/OOP Zadaci/Vozac/cmake-build-debug/CMakeFiles/Vozac.dir
+C:/Users/Daniel Laptop/CLionProjects/OOP Zadaci/Vozac/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Daniel Laptop/CLionProjects/OOP Zadaci/Vozac/cmake-build-debug/CMakeFiles/rebuild_cache.dir
