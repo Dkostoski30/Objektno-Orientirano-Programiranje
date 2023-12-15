@@ -1,0 +1,3 @@
+C:/Users/Daniel Laptop/CLionProjects/OOP Zadaci/PHD-Student/cmake-build-debug/CMakeFiles/PHD_Student.dir
+C:/Users/Daniel Laptop/CLionProjects/OOP Zadaci/PHD-Student/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Daniel Laptop/CLionProjects/OOP Zadaci/PHD-Student/cmake-build-debug/CMakeFiles/rebuild_cache.dir
